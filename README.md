@@ -1,0 +1,2 @@
+# Blog
+Traducción de Blog
